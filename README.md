@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dominikake
-- 👀 I’m interested in Data Analysis, Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python and a bunch of other random stuff
+- 💞️ I’m looking to collaborate on open-source projects
 <!--- 📫 How to reach me ...--->
 - janemgo@gmail.com
 <!---
