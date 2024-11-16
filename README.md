@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dominikake
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in pretty much anything
 - 🌱 I’m currently learning Python and a bunch of other random stuff
 - 💞️ I’m looking to collaborate on open-source projects
 <!--- 📫 How to reach me ...--->
